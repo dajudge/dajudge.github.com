@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="dajudge.com update site" url="http://dajudge.github.com/update">
+      dajudge.com update site
+   </description>
+   <feature url="features/com.dajudge.tinyFiles_0.0.1.jar" id="com.dajudge.tinyFiles" version="0.0.1">
+      <category name="com.dajudge.gadgets"/>
+   </feature>
+   <category-def name="com.dajudge.gadgets" label="Eclipse gadgets">
+      <description>
+         Various eclipse gadgets
+      </description>
+   </category-def>
+</site>
